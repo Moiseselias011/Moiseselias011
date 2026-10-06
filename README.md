@@ -1,4 +1,5 @@
 # 👋 Hola, soy Moisés Elías Salas
+![Portada](./portada%20githup.jpg)
 
 Estudiante de Desarrollo de Software | C# / .NET | Interés en Ciberseguridad, fundamentos de programación e IA.
 
@@ -6,7 +7,7 @@ Estudiante de Desarrollo de Software | C# / .NET | Interés en Ciberseguridad, f
 
 📧 [shipooshipo2@gmail.com](mailto:shipooshipo2@gmail.com)
 
-📄 [Ver mi CV](./CV-Moises-Elías-Salas.pdf)
+📄 [Ver mi CV](./Salas_Moises_Elias_CV.pdf)
 
 💼 [linkedin](https://www.linkedin.com/in/moisés-elías-salas-4a05b1437)
 
