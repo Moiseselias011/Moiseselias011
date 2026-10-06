@@ -1,4 +1,4 @@
-# 👋 Hola, soy Moisés Elías Salas
+# 👋 Hola, soy Moisés Elías Salas / ASP.NET Core / C# Developer — Junior
 ![Portada](./portada%20githup.jpg)
 
 Estudiante de Desarrollo de Software | C# / .NET | Interés en Ciberseguridad, fundamentos de programación e IA.
@@ -30,6 +30,22 @@ Estudiante de Desarrollo de Software | C# / .NET | Interés en Ciberseguridad, f
 Sobre mí
 
 Actualmente estudio la Tecnicatura Universitaria en Desarrollo de Software y estoy orientando mi formación hacia el desarrollo backend con C#/.NET, los fundamentos de redes y ciberseguridad, y también los fundamentos de IA y agentes.
+
+Backend
+
+C#
+ASP.NET Core
+ASP.NET Core Web API
+Entity Framework Core
+SQL Server
+JWT / autenticación y autorización
+
+Frontend
+
+Vue.js
+JavaScript
+HTML / CSS
+Axios
 
  Proyectos principales
 
