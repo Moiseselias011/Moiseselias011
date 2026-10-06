@@ -5,13 +5,25 @@ Estudiante de Desarrollo de Software | C# / .NET | Interés en Ciberseguridad, f
 
  📫 Contacto
 
-📧 [shipooshipo2@gmail.com](mailto:shipooshipo2@gmail.com)
+<a href="mailto:shipooshipo2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shipooshipo2%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-📄 [Ver mi CV](./Salas_Moises_Elias_CV.pdf)
+<a href="./Salas_Moises_Elias_CV.pdf">
+  <img src="https://img.shields.io/badge/CV-Ver%20mi%20CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV">
+</a>
 
-💼 [linkedin](https://www.linkedin.com/in/moisés-elías-salas-4a05b1437)
+<a href="https://www.linkedin.com/in/moisés-elías-salas-4a05b1437">
+  <img src="https://img.shields.io/badge/LinkedIn-Moisés%20Elías%20Salas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-🐙 [githup](https://github.com/Moiseselias011)
+<a href="https://github.com/Moiseselias011">
+  <img src="https://img.shields.io/badge/GitHub-Moiseselias011-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.ulp.edu.ar/index.php">
+  <img src="https://img.shields.io/badge/ULP-Universidad-2E7D32?style=for-the-badge" alt="ULP">
+</a>
 
 
 
